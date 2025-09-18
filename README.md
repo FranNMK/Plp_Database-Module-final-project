@@ -110,9 +110,5 @@ JOIN COURSES C ON E.CourseId = C.CourseId;
 * Francis Mwangi Kienji
 * GitHub:https://github.com/FranNMK
 
----
 
-```
-
----
 
