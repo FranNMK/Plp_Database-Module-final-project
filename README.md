@@ -44,14 +44,14 @@ The database follows standard relational design principles with **well-structure
 1. Install **MySQL** on your system.
 2. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/student-records-db.git
-   cd student-records-db
+   git clone https://github.com/FranNMK/Plp_Database-Module-final-project.git
+   cd Plp_Database-Module-final-project
 ````
 
 3. Open MySQL client and run:
 
    ```sql
-   SOURCE schema.sql;
+   SOURCE answers.sql;
    ```
 4. This will:
 
@@ -108,7 +108,7 @@ JOIN COURSES C ON E.CourseId = C.CourseId;
 ## 👨‍💻 Author
 
 * **Your Name**
-* GitHub: [your-username](https://github.com/your-username)
+* GitHub:https://github.com/FranNMK
 
 ---
 
