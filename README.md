@@ -107,5 +107,12 @@ JOIN COURSES C ON E.CourseId = C.CourseId;
 
 ## 👨‍💻 Author
 
-* Francis Mwangi Kienji
-* GitHub: [your-username](https://github.com/FrankNMK)
+* **Your Name**
+* GitHub: [your-username](https://github.com/your-username)
+
+---
+
+```
+
+---
+
